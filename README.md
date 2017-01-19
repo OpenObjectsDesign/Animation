@@ -2,7 +2,7 @@
 
 ### Elements
 
-#### Text
+##### Text
 - [Animate Text](http://daneden.github.io/animate.css/)
 
 #### Buttons / Links
