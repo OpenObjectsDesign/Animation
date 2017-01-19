@@ -1,27 +1,27 @@
 # Open Objects Design
 
-### Buttons / Links
-- [Link Effects](http://tympanus.net/Development/CreativeLinkEffects/)
-- [Progress Buttons](http://tympanus.net/Development/ProgressButtonStyles/)
-
-
-### Hover Effects
+### :helicopter: Hover Effects
 - [Hover Effects](http://ianlunn.github.io/Hover/)
 - [Icon Hover Effects](https://tympanus.net/Development/IconHoverEffects/)
+- [Link Effects](http://tympanus.net/Development/CreativeLinkEffects/)
 
 
-### Navigation
+### :arrow_left: Navigation
 - [Navigation Indicators](http://tympanus.net/Development/NavigationIndicators/)
 - [Dot Navigation](http://tympanus.net/Development/DotNavigationStyles/)
 - [Arrow Navigation](http://tympanus.net/Development/ArrowNavigationStyles/)
-- [Navigation](http://navnav.co/)
+- [Navigation Examples](http://navnav.co/)
 
 
-### Notifications
+### :warning: Notifications
 - [Notifications](http://tympanus.net/Development/NotificationStyles/growl-genie.html)
 
 
-### Text
+### :radio_button: Buttons
+- [Progress Buttons](http://tympanus.net/Development/ProgressButtonStyles/)
+
+
+### :a: Text
 - [Animate Text](http://daneden.github.io/animate.css/)
 
 
