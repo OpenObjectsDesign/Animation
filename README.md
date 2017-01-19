@@ -16,18 +16,15 @@
 - [Navigation](http://navnav.co/)
 
 
-
 ### Colours
 
 - [Open Color](http://yeun.github.io/open-color/)
 - [Color Claim](http://www.vanschneider.com/colors/)
 
 
-
 ### Other Websites
 
 - [User Onboarding](http://www.useronboard.com/)
-
 
 
 ### To Sort
