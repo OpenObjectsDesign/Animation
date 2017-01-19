@@ -6,7 +6,7 @@
 - [Link Effects](http://tympanus.net/Development/CreativeLinkEffects/)
 
 
-### :arrow_left: Navigation
+### :point_right: Navigation
 - [Navigation Indicators](http://tympanus.net/Development/NavigationIndicators/)
 - [Dot Navigation](http://tympanus.net/Development/DotNavigationStyles/)
 - [Arrow Navigation](http://tympanus.net/Development/ArrowNavigationStyles/)
