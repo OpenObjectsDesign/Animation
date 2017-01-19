@@ -16,14 +16,13 @@
 - [Navigation](http://navnav.co/)
 
 
-### Colours
-
+### Colour
 - [Open Color](http://yeun.github.io/open-color/)
 - [Color Claim](http://www.vanschneider.com/colors/)
+- [Coolors](http://coolors.co/)
 
 
 ### Other Websites
-
 - [User Onboarding](http://www.useronboard.com/)
 
 
