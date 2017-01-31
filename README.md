@@ -31,9 +31,7 @@
 - [Coolors](http://coolors.co/)
 
 
-### Other Websites
-- [User Onboarding](http://www.useronboard.com/)
-
-
 ### To Sort
+- [User Onboarding](http://www.useronboard.com/)
 - [Magic Animations](http://www.minimamente.com/example/magic_animations/)
+- [Gridzzly](http://gridzzly.com) Printable grids
