@@ -14,7 +14,7 @@
 
 
 ### :warning: Notifications
-- [Notifications](http://tympanus.net/Development/NotificationStyles/growl-genie.html)
+- [Notification Examples](http://tympanus.net/Development/NotificationStyles/growl-genie.html)
 
 
 ### :radio_button: Buttons
