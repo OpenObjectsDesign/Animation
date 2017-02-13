@@ -29,6 +29,7 @@
 - [Open Color](http://yeun.github.io/open-color/)
 - [Color Claim](http://www.vanschneider.com/colors/)
 - [Coolors](http://coolors.co/)
+- [Web Gradients](http://webgradients.com/)
 
 
 ### To Sort
